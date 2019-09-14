@@ -1,4 +1,4 @@
-#define DISKNAME  Ubuntu 18.04.3 LTS "Bionic Beaver" - Release amd64
+#define DISKNAME  ChromeOS 18.04.3 LTS "Bionic Beaver" - Release amd64
 #define TYPE  binary
 #define TYPEbinary  1
 #define ARCH  amd64
